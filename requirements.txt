@@ -1,0 +1,9 @@
+numpy
+nltk
+tensorflow
+tflearn
+flask
+sklearn
+pymongo
+fasttext
+tsne
